@@ -1,9 +1,9 @@
 <template>
-  <div>`212</div>
+  <div id="app">`212</div>
 </template>
 
 <script>
 export default {};
 </script>
 
-<style></style>
+<style lang="less"></style>
